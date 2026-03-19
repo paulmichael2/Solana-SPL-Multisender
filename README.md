@@ -15,4 +15,4 @@ A funded Solana wallet with the SPL tokens you want to distribute
 
 git clone <your-repo-url>
 cd solana-spl-multisender
-npm install
+npm installd
