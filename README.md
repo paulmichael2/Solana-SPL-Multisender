@@ -13,6 +13,8 @@ Node.js ≥ 18
 @solana/web3.js and @solana/spl-token packages
 A funded Solana wallet with the SPL tokens you want to distribute
 
+## Installation
+```bash
 git clone <your-repo-url>
 cd solana-spl-multisender
-npm installd
+npm install
